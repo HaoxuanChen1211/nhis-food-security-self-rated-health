@@ -1,0 +1,13 @@
+"threshold","term","odds_ratio","conf_low","conf_high","p_value"
+"Very good or worse vs excellent","food_securityMarginal food security",1.80638147258229,1.51908134206128,2.14801797253392,4.79303544906267e-11
+"Very good or worse vs excellent","food_securityLow food security",1.51478645373827,1.23430003923904,1.85901152676266,7.66705366403548e-05
+"Very good or worse vs excellent","food_securityVery low food security",1.68691378521866,1.29434676517034,2.19854384878558,0.000117818695614184
+"Good or worse vs excellent/very good","food_securityMarginal food security",1.89771264692858,1.67446511153304,2.15072458990533,4.98182799727693e-22
+"Good or worse vs excellent/very good","food_securityLow food security",1.84495631345445,1.59334884530871,2.13629539355264,1.50192598430599e-15
+"Good or worse vs excellent/very good","food_securityVery low food security",2.23580627152887,1.87167551270872,2.67077794728073,7.72335850369669e-18
+"Fair or poor vs excellent/very good/good","food_securityMarginal food security",1.98522765232244,1.69639332659416,2.32323999968701,9.68031709374969e-17
+"Fair or poor vs excellent/very good/good","food_securityLow food security",2.41361178993744,2.05094244298261,2.84041216878479,3.14800448559544e-24
+"Fair or poor vs excellent/very good/good","food_securityVery low food security",3.19958755675226,2.6474117453493,3.86693174996592,4.94139135402452e-30
+"Poor vs excellent/very good/good/fair","food_securityMarginal food security",2.22140706228749,1.70585159107515,2.8927776379835,5.02518290537075e-09
+"Poor vs excellent/very good/good/fair","food_securityLow food security",2.384596791085,1.7977382421093,3.16303103692175,2.72515382156687e-09
+"Poor vs excellent/very good/good/fair","food_securityVery low food security",4.18762841517078,3.10414948364739,5.64928713514806,1.29953954711985e-19
